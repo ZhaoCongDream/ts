@@ -1,4 +1,4 @@
-# ts-project
+# ts-project (Vue+TypeScript项目模板)
 
 ## Project setup
 ```
